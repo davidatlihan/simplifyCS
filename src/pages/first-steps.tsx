@@ -58,7 +58,7 @@ export default function FirstSteps() {
         {/* Title Section */}
         <div className="mb-12">
           <h1 className="text-4xl lg:text-5xl font-bold mb-4">First Steps</h1>
-          <p className="text-xl text-gray-300">Contrary to popular belief, the market isn't cooked—most people just don't know where to look. Here's everything you should know before we start:</p>
+          <p className="text-xl text-gray-300">Contrary to popular belief, the market isn&apos;t cooked—most people just don&apos;t know where to look. Here&apos;s everything you should know before we start:</p>
         </div>
 
         {/* Category Buttons */}
