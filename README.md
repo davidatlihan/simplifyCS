@@ -1,23 +1,37 @@
-SimplifyCS - Make Software Engineering Easy
+# SimplifyCS - Make Software Engineering Easy
 The job market isn't cooked--you just don't know where to look.
-A comprehensive roadmap, progress tracker, and all-in-one platform for students looking to break into tech jobs.
 
-to implement:
-polish overall
-*roadmap:
-    create
-    ui
+SimplifyCS is:
+
+- A comprehensive roadmap, 
+
+- progress tracker, and
+
+- all-in-one platform for students looking to break into tech jobs.
+
+To implement:
+
+logging in
+
+roadmap:
+
+    create polished ui
     content
     links
     etc
-*get started
+
+get started
+
     content
     ui
     polish
-*track progress
+
+track progress
+
     create it
     ui
     achievements
+    database
 
 
 
@@ -25,7 +39,6 @@ polish overall
 
 
 
-stuff:
 [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
