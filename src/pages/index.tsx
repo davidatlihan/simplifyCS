@@ -102,7 +102,7 @@ export default function Home() {
               >
                 <p className="animate-fade-in-up" style={{animationDelay: '0.7s'}}>
                   The one-stop shop for anyone looking to break into software engineering: 
-                  Access all the necessary info your degree won't teach you.
+                  Access all the necessary info your degree won&apos;t teach you.
                 </p>
                 <p className="animate-fade-in-up" style={{animationDelay: '0.9s'}}>
                   Simplify the path to big tech and avoid the fluff— SimplifyCS provides 
@@ -157,16 +157,16 @@ export default function Home() {
             {/* Large Market Message */}
             <h2 className="text-4xl lg:text-6xl font-bold leading-tight mb-8">
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-white via-gray-300 to-white">
-                The market isn't cooked—
+                The market isn&apos;t cooked—
               </span>
               <span className="block mt-2">
-                people just don't know where to look.
+                people just don&apos;t know where to look.
               </span>
             </h2>
 
             {/* Supporting Text */}
             <p className="text-xl lg:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-              Students can no longer be satisfied with just a degree if they want to find a job. We're here to help provide the rest.
+              Students can no longer be satisfied with just a degree if they want to find a job. We&apos;re here to help provide the rest.
             </p>
 
             {/* Get Started Button */}
