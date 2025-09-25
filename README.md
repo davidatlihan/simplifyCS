@@ -13,6 +13,8 @@ To implement:
 
 logging in
 
+get rid of all vibe coded stuff
+
 roadmap:
 
     create polished ui
